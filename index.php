@@ -68,14 +68,14 @@
 
     <p>Check out my projects.</p>
 
-    <ul class="ul-gallery list-group list-group-horizontal">
+<!--     <ul class="ul-gallery list-group list-group-horizontal">
       <?php $i = 0;
       while ($i <= 10) : ?>
         <li class="li-gallery my-3 list-group-item">
           <img src=<?= "img/image10$i.jpg" ?> alt="..." class="img-gallery" />
         </li>
       <?php endwhile; ?>
-    </ul>
+    </ul> -->
 
     <!-- <sub>
       I have no idea what to put here man
